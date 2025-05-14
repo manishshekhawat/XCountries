@@ -26,6 +26,7 @@ function App() {
         style={{
           display: "flex",
           flexWrap: "wrap",
+          justifyContent: "center",
           gap: "10px",
           
         }}
